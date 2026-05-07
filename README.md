@@ -1,4 +1,5 @@
 # KeyDash
+
 A fun and interactive typing speed game designed to improve typing accuracy, speed, and focus through engaging real-time gameplay.
 
 🎮 About KeyDash
@@ -8,6 +9,7 @@ KeyDash is a modern browser-based typing game where players burst floating word 
 Built with smooth animations, glowing UI effects, and dynamic gameplay to make typing practice feel fun and competitive.
 
 ✨ Features
+
 ⚡ Real-time Typing Challenge
 💬 Floating Bubble Word System
 🎯 Typing Speed & Accuracy Practice
@@ -17,7 +19,9 @@ Built with smooth animations, glowing UI effects, and dynamic gameplay to make t
 📱 Responsive Design
 🎨 Smooth Visual Effects & Transitions
 🔥 Interactive Gameplay Experience
+
 🛠️ Technologies Used
+
 PHP
 HTML5
 CSS3
